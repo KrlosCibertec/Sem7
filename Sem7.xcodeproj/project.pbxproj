@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		987898512AE5F51000B41F4B /* TblPaisViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987898502AE5F51000B41F4B /* TblPaisViewCell.swift */; };
+		987898532AE6095A00B41F4B /* Pais.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987898522AE6095A00B41F4B /* Pais.swift */; };
 		98911B762AE59CCA00C11A00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98911B752AE59CCA00C11A00 /* AppDelegate.swift */; };
 		98911B782AE59CCA00C11A00 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98911B772AE59CCA00C11A00 /* SceneDelegate.swift */; };
 		98911B7A2AE59CCA00C11A00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98911B792AE59CCA00C11A00 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		987898502AE5F51000B41F4B /* TblPaisViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TblPaisViewCell.swift; sourceTree = "<group>"; };
+		987898522AE6095A00B41F4B /* Pais.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pais.swift; sourceTree = "<group>"; };
 		98911B722AE59CCA00C11A00 /* Sem7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sem7.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		98911B752AE59CCA00C11A00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		98911B772AE59CCA00C11A00 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				98911B752AE59CCA00C11A00 /* AppDelegate.swift */,
 				98911B772AE59CCA00C11A00 /* SceneDelegate.swift */,
 				98911B792AE59CCA00C11A00 /* ViewController.swift */,
+				987898502AE5F51000B41F4B /* TblPaisViewCell.swift */,
+				987898522AE6095A00B41F4B /* Pais.swift */,
 				98911B7B2AE59CCA00C11A00 /* Main.storyboard */,
 				98911B7E2AE59CD700C11A00 /* Assets.xcassets */,
 				98911B802AE59CD700C11A00 /* LaunchScreen.storyboard */,
@@ -140,7 +146,9 @@
 			files = (
 				98911B7A2AE59CCA00C11A00 /* ViewController.swift in Sources */,
 				98911B762AE59CCA00C11A00 /* AppDelegate.swift in Sources */,
+				987898512AE5F51000B41F4B /* TblPaisViewCell.swift in Sources */,
 				98911B782AE59CCA00C11A00 /* SceneDelegate.swift in Sources */,
+				987898532AE6095A00B41F4B /* Pais.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
